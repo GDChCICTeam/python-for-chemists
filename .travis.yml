@@ -5,7 +5,6 @@ python:
 before_install:
   - python --version
   - pip3 install -U pytest
-  - pip3 install -U errno
   - pip3 install -U pathlib
 script:
   - python3 -m pytest
