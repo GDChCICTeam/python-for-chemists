@@ -15,7 +15,7 @@ import errno
 # variable content. It's written to work on the three major OSs.
 script_dir = pathlib.Path(os.path.dirname(os.path.abspath(__file__)))
 repo_home = list(script_dir.parents)[0]
-if repo_home.stem != 'python-workshop':
+if repo_home.stem != 'python-for-chemists':
     print("Could not determine repository's home directory")
     print("script_dir parents are: ", [i for i in script_dir.parents])
     exit(errno.ENOENT)

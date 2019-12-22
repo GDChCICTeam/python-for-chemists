@@ -1,10 +1,10 @@
-# python-workshop [![Build Status](https://travis-ci.com/GDChCICTeam/python-workshop.svg?branch=master)](https://travis-ci.com/GDChCICTeam/python-workshop)
+# Python for Chemists [![Build Status](https://travis-ci.com/GDChCIC/python-for-chemists.svg?branch=master)](https://travis-ci.com/GDChCIC/python-for-chemists)
 This repository stores the main resources of a workshop that was created to serve as
 crash-course introduction to Python for natural scientists. More specificly,
 chemists and pharmaceutical scientists on masters and graduate level.
 
 
-# Ready to use with Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GDChCICTeam/python-workshop/master)
+# Ready to use with Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GDChCIC/python-for-chemists/master)
 In case you are completely new to programming and want to play with the examples
 used in the Jupyter Notebooks, it is recommended to check out the provided Binder (icon next to the title of this section).
 
