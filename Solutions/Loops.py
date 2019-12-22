@@ -18,6 +18,7 @@ repo_home = pathlib.Path()
 repo_home_list = [i for i in script_dir.parents if i.stem == 'github-cic-python-workshop']
 if len(repo_home_list) == 0:
     print("Could not determine repository's home directory")
+    print("script_dir parents are: ", [i for i in script_dir.parents])
     exit(errno.ENOENT)
 else:
     repo_home = repo_home_list[0]
