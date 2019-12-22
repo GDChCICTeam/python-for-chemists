@@ -1,1 +1,1 @@
-# python-workshop
+# python-workshop [![Build Status](https://travis-ci.com/GDChCICTeam/python-workshop.svg?branch=master)](https://travis-ci.com/GDChCICTeam/python-workshop)
