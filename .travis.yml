@@ -4,8 +4,8 @@ python:
   - 3.6
 before_install:
   - python --version
-  - pip install -U pip
-  - pip install -U pytest
-  - pip install -U errno
-  - pip install -U pathlib
-script: pytest
+  - pip3 install -U pytest
+  - pip3 install -U errno
+  - pip3 install -U pathlib
+script:
+  - python3 -m pytest
