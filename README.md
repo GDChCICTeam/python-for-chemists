@@ -1,4 +1,4 @@
-# Python for Chemists [![Build Status](https://travis-ci.com/GDChCICTeam/python-for-chemists.svg?branch=master)](https://travis-ci.com/GDChCIC/python-for-chemists)
+# Python for Chemists [![Build Status](https://travis-ci.com/GDChCICTeam/python-for-chemists.svg?branch=master)](https://travis-ci.com/GDChCICTeam/python-for-chemists)
 This repository stores the main resources of a workshop that was created to serve as
 crash-course introduction to Python for natural scientists. More specificly,
 chemists and pharmaceutical scientists on masters and graduate level.
