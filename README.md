@@ -17,7 +17,7 @@ The repository contains a file `environment.yml` that specifies all needed requi
 run the Jupyter notebooks and to work through the exercises. The following steps are necessary to set up your *conda*
 environment.
  - [install *Anaconda*](#install-anaconda)
- - [create a *coda* environment](#create-a-conda-environment)
+ - [create a *conda* environment](#create-a-conda-environment)
  - [activate the environment](#activate-the-environment)
  - [start the Jupyter notebook server](#start-the-jupyter-notebook-server)
 
@@ -70,3 +70,40 @@ Last but not least you will have to start the Jupyter notebook server with:
 ```bash
 jupyter notebook
 ```
+
+# Resources
+The course that resides here in this repository is only the beginning of your journey. There are
+many resources online that are a good reference point to dive deeper into programming with
+Python. We have tried to compile a list of those resouces we find most reasonable.
+
+### Software Carpentry
+[Software carpentry](https://software-carpentry.org/) is a volunteer project aiming to teach
+researchers the computing skills they need to get more done in less time and with less pain.
+  * [Software Carpentry](https://software-carpentry.org/lessons/)
+
+### Massive Open Online Courses (MOOCs)
+MOOCs are online platforms that are designed to be like university courses with lectures and
+assignments (sometimes graded).
+  * [Coursera Python Courses](https://www.coursera.org/courses?query=python)
+  * [edX Python Courses](https://www.edx.org/learn/python)
+
+### Codeacademy
+Codeacademy is an online resource for many programming languages and concepts. They provide an
+interface with three columns (task | code | output) that makes coding fun and is easy to use.
+Unfortunately, learning Python3 is a pro feature. Python2 is not supported anymore since
+January 2020. Nonetheless, it is a good starting point and the differences can be learned pretty
+quickly. Just make sure to not start a project in Python2 anymore!
+  * [Codeacaemy](https://www.codecademy.com/learn/learn-python)
+
+###  Molecular Sciences Software Institute (MolSSI)
+The [MolSSI](molssi.org) has prepared a Python course as well that goes a beyond the material that is part
+of our workshop. It is a good location to start about best [practices](https://molssi.org/education/best-practices/),
+[unit testing](https://molssi-education.github.io/python_scripting_cms/08-testing/index.html)
+and [version control](https://molssi-education.github.io/python_scripting_cms/09-git/index.html).
+  * [MolSSI Python Course](https://molssi-education.github.io/python_scripting_cms/)
+
+### TeachOpenCADD
+Is a teaching platform for computer-aided drug design (CADD), using open source packages and data.
+Python is only a first step to computational chemistry. Besides data crunching chemical and biological
+models are widely used to predict experimental outcomes or aid in exploring chemical mechanisms.
+  * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD)
