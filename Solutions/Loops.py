@@ -2,7 +2,10 @@
 import pathlib
 import errno
 
-root_dir = pathlib.Path.cwd().parent
+if pathlib.Path.cwd().name == 'python-for-chemists':
+  root_dir = pathlib.Path.cwd()
+else:
+  root_dir = pathlib.Path.cwd().parent
 data_path = root_dir / 'Data'
 data_file = root_dir / 'Data' / 'input_for_loop_exercise.txt'
 
