@@ -1,8 +1,10 @@
 #!/usr/bin/python3
-
-import os
 import pathlib
 import errno
+
+root_dir = pathlib.Path.cwd().parent
+data_path = root_dir / 'Data'
+data_file = root_dir / 'Data' / 'input_for_loop_exercise.txt'
 
 # --------------------------------------------------------------------------- #
 # traverse the content of the variables 'content', 'a_dictionary', 'a_list' with:
@@ -11,16 +13,8 @@ import errno
 # and print each element using the print() function
 # --------------------------------------------------------------------------- #
 
-# this is only to parse data from the file with test data and store it in the
-# variable content. It's written to work on the three major OSs.
-script_dir = pathlib.Path(os.path.dirname(os.path.abspath(__file__)))
-repo_home = list(script_dir.parents)[0]
-if repo_home.stem != 'python-for-chemists':
-    print("Could not determine repository's home directory")
-    print("script_dir parents are: ", [i for i in script_dir.parents])
-    exit(errno.ENOENT)
 
-data_file = repo_home.joinpath('Data/input_for_loop_exercise.txt')
+# parse content of file 'input_for_loop_exercise.txt'
 content = ''
 if data_file.exists():
     with data_file.open() as infile:
@@ -28,6 +22,7 @@ if data_file.exists():
 else:
     exit(errno.ENOENT)
 
+# --------------------------------------------------------------------------- #
 
 # initialize dictionary and list
 a_dictionary = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
