@@ -93,7 +93,7 @@ interface with three columns (task | code | output) that makes coding fun and is
 Unfortunately, learning Python3 is a pro feature. Python2 is not supported anymore since
 January 2020. Nonetheless, it is a good starting point and the differences can be learned pretty
 quickly. Just make sure to not start a project in Python2 anymore!
-  * [Codeacaemy](https://www.codecademy.com/learn/learn-python)
+  * [Codeacademy](https://www.codecademy.com/learn/learn-python)
 
 ###  Molecular Sciences Software Institute (MolSSI)
 The [MolSSI](molssi.org) has prepared a Python course as well that goes a beyond the material that is part
