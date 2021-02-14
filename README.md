@@ -104,25 +104,25 @@ Last but not least, you will have to start the Jupyter notebook server with:
 jupyter notebook
 ```
 
-## Resources
+# Resources
 The workshop that resides in this repository is only the beginning of your journey. There are many
 resources online that are a good reference point to dive deeper into programming with Python. We
 have tried to compile a short, opinionated list of some resouces we think are a good start.
 
-#### Software Carpentry
+### Software Carpentry
 [Software carpentry](https://software-carpentry.org/) is a volunteer project aiming to teach
 researchers the computing skills they need to get more done in less time and with less pain.
 
   * [Software Carpentry](https://software-carpentry.org/lessons/)
 
-#### Massive Open Online Courses (MOOCs)
+### Massive Open Online Courses (MOOCs)
 MOOCs are online platforms that are designed to be like university courses with lectures and
 assignments (sometimes graded).
 
   * [Coursera Python Courses](https://www.coursera.org/courses?query=python)
   * [edX Python Courses](https://www.edx.org/learn/python)
 
-#### Codeacademy
+### Codeacademy
 Codeacademy is an online resource for many programming languages and concepts. They
 provide an interface with three columns (task | code | output) that makes coding fun and is easy to
 use.  Unfortunately, learning Python3 is a pro feature and Python2 is officially deprecated since
@@ -131,7 +131,7 @@ versions can be learned pretty quickly. Just make sure to not start a project in
 
   * [Codeacademy](https://www.codecademy.com/learn/learn-python)
 
-####  Molecular Sciences Software Institute (MolSSI)
+###  Molecular Sciences Software Institute (MolSSI)
 The [MolSSI](molssi.org) has prepared a Python course as well. It goes beyond the material that is
 part of our workshop. It is a good location to start learning about [best practices](https://molssi.org/education/best-practices/),
 [unit testing](https://molssi-education.github.io/python_scripting_cms/08-testing/index.html)
@@ -139,7 +139,7 @@ and [version control](https://molssi-education.github.io/python_scripting_cms/09
 
   * [MolSSI Python Course](https://molssi-education.github.io/python_scripting_cms/)
 
-#### TeachOpenCADD
+### TeachOpenCADD
 Is a teaching platform for computer-aided drug design (CADD), using open source packages and data.
 Python is only a first step to computational chemistry. Besides data crunching, chemical and
 biological models are widely used to predict experimental outcomes or aid in exploring chemical
