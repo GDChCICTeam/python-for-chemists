@@ -1,11 +1,12 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # --------------------------------------------------------------------------- #
-# write if/else conditionals that decide what is printed to the console
-# based on the content of the strings that are stored in the given list
-# the following criteria should be tested and tested string should be printed
-# together with a messages indicating which of the following rules matched. In
-# case that several rules apply, several messages shall be printed.
+# Write if/else conditionals that decide what is printed to the console. The
+# output should be based on the content of the strings in the given list. Test
+# the following criteria and print the tested string along with the criteria
+# that match. If several rules match, print all of them. Try to use built-in
+# python functions wherever possible.
+#
 # Rules:
 #   - contains only alphanumerical characters
 #   - contains only alphabetical characters
