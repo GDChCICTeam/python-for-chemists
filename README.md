@@ -146,3 +146,12 @@ biological models are widely used to predict experimental outcomes or aid in exp
 mechanisms.
 
   * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD)
+
+### Chemotion
+Chemotion aims for the development of a freely available infrastructure for research data
+management through the development of two independent IT systems namely an
+electronic laboratory notebook (ELN) and a chemistry web repository. We include it in this
+repository since it is a great platform that furthers the cause to create fully integrated
+and programmable piplines from bench to predictive models.
+
+  * [Chemotion](https://chemotion.net/)
