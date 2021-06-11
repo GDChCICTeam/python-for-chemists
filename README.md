@@ -107,7 +107,7 @@ jupyter notebook
 # Resources
 The workshop that resides in this repository is only the beginning of your journey. There are many
 resources online that are a good reference point to dive deeper into programming with Python. We
-have tried to compile a short, opinionated list of some resouces we think are a good start.
+have tried to compile a short, opinionated list of some resources we think are a good start.
 
 ### Software Carpentry
 [Software carpentry](https://software-carpentry.org/) is a volunteer project aiming to teach
@@ -126,7 +126,7 @@ assignments (sometimes graded).
 Codeacademy is an online resource for many programming languages and concepts. They
 provide an interface with three columns (task | code | output) that makes coding fun and is easy to
 use.  Unfortunately, learning Python3 is a pro feature and Python2 is officially deprecated since
-January 2020. Nonetheless, it is a good starting point and the differences between the two language
+January 2020. Nonetheless, it is a good starting point, and the differences between the two language
 versions can be learned pretty quickly. Just make sure to not start a project in Python2 anymore!
 
   * [Codeacademy](https://www.codecademy.com/learn/learn-python)
@@ -141,7 +141,7 @@ and [version control](https://molssi-education.github.io/python_scripting_cms/09
 
 ### TeachOpenCADD
 Is a teaching platform for computer-aided drug design (CADD), using open source packages and data.
-Python is only a first step to computational chemistry. Besides data crunching, chemical and
+Python is only a first step to computational chemistry. Besides, data crunching, chemical and
 biological models are widely used to predict experimental outcomes or aid in exploring chemical
 mechanisms.
 
@@ -150,8 +150,8 @@ mechanisms.
 ### Chemotion
 Chemotion aims for the development of a freely available infrastructure for research data
 management through the development of two independent IT systems namely an
-electronic laboratory notebook (ELN) and a chemistry web repository. We include it in this
+electronic laboratory notebook (ELN), and a chemistry web repository. We include it in this
 repository since it is a great platform that furthers the cause to create fully integrated
-and programmable piplines from bench to predictive models.
+and programmable pipelines from bench to predictive models.
 
   * [Chemotion](https://chemotion.net/)
