@@ -122,14 +122,14 @@ assignments (sometimes graded).
   * [Coursera Python Courses](https://www.coursera.org/courses?query=python)
   * [edX Python Courses](https://www.edx.org/learn/python)
 
-### Codeacademy
-Codeacademy is an online resource for many programming languages and concepts. They
+### Codecademy
+Codecademy is an online resource for many programming languages and concepts. They
 provide an interface with three columns (task | code | output) that makes coding fun and is easy to
 use.  Unfortunately, learning Python3 is a pro feature and Python2 is officially deprecated since
 January 2020. Nonetheless, it is a good starting point, and the differences between the two language
 versions can be learned pretty quickly. Just make sure to not start a project in Python2 anymore!
 
-  * [Codeacademy](https://www.codecademy.com/learn/learn-python)
+  * [Codecademy](https://www.codecademy.com/learn/learn-python)
 
 ###  Molecular Sciences Software Institute (MolSSI)
 The [MolSSI](molssi.org) has prepared a Python course as well. It goes beyond the material that is
